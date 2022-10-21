@@ -1,6 +1,5 @@
 # Two-Stage DL Model for Network IDS
 
-The paper is underreview in Expert System With Application (ESWA), Elsevier. Code and experiments will be made avialble soon.
 
 ![proposed model with result](https://user-images.githubusercontent.com/20646204/196616206-28a064d1-9864-4429-a607-246c653f141d.png)
 
