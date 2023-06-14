@@ -23,3 +23,6 @@ https://doi.org/10.1109/ACCESS.2023.3266979
 
 # ResearchGate Link
 https://www.researchgate.net/publication/369944075_A_Novel_Two-Stage_Deep_Learning_Model_for_Network_Intrusion_Detection_LSTM-AE
+
+# Note:
+If you find this code and paper useful, kindly consider to cite from your valuable work.
