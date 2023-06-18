@@ -3,6 +3,9 @@
 # Journal:
 IEEE Access
 
+# Publisher:
+IEEE
+
 # Corresponding author:
 Yong Hwa-Kim
 
