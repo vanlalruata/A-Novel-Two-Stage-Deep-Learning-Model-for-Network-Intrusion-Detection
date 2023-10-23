@@ -1,0 +1,11 @@
+Parameter,Value
+AE Layers,1
+LSTM Layers,2
+LSTM Hidden Units,"196, 125"
+LSTM Activation,relu
+Learning Rate,0.001
+Metrics,Accuracy
+Loss Function,Mean Absolute Error
+Optimizer,Adam
+Batch Size,128
+Epochs,30
